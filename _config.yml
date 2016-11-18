@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Consultant Cronicles"
+title                    : "Sowtware Craftsmanship and more"
 title_separator          : "-"
 name                     : "Berk Dülger"
 description              : "An ordinary website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://berkdulger.github.io"
+baseurl                  : "/"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "teaser-image.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -66,7 +66,7 @@ author:
   name             : "Berk Dülger"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Istanbul, Turkey"
   email            : berk_dulger@yahoo.com.tr
   uri              :
   bitbucket        :
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "github.com/berkdulger"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :  "tr.linkedin.com/berkdulger"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
