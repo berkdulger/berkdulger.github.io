@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sowtware Craftsmanship and more"
+title                    : "DevOps, Lean, Agile ..."
 title_separator          : "-"
 name                     : "Berk Dülger"
 description              : "An ordinary website."
 url                      : "https://berkdulger.github.io"
-baseurl                  : "/"
+baseurl                  : ""
 gh_repo                  :
 teaser                   : "teaser-image.png"
 # breadcrumbs            : false # true, false (default)
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/berkdulger"
+  github           : "berkdulger"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "tr.linkedin.com/berkdulger"
+  linkedin         :  "berkdulger"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
