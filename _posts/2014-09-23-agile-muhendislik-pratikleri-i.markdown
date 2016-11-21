@@ -1,7 +1,6 @@
 ---
 title: Agile Mühendislik Pratikleri – I
 date: 2014-09-23 12:37:00 Z
-published: false
 categories:
 - blog
 layout: default
