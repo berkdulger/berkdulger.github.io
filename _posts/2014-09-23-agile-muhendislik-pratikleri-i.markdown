@@ -6,6 +6,7 @@ categories:
 layout: default
 ---
 
+![photo-1422207134147-65fb81f59e38.jpg](/uploads/photo-1422207134147-65fb81f59e38.jpg)
 IT, özellikle yazılım geliştirme dünyasındaki herkes hayatında en az bir kez “Agile” yada “Çevik” kelimesini duymuştur eminim ki. Hatta birçok kişi bu havalı! sözcüğün büyüsüne kapılıp, “Agile” olmak için kolları sıvamıştır. Scrum, XP gibi konuları araştırmış, eğitimlere katılmış, hatta denemeler yapmış olanlarımızın sayısı hiç de azımsanmayacak oranlardadır büyük ihtimalle.
 
 2001'de Agile Manifesto ile ortaya konulmuş bu kavram ile süreç yaklaşımından, ürün yaklaşımına geçilerek gerçek manasıyla iş üretmeye odaklanılmak istenmiştir. Ya da moda tabiri ile bu yaklaşıma, çıktıdan çok sonuca odaklanmak da diyebiliriz (Outcomes over outputs). Bunu yaparken de ağır dokümantasyonlar, sözleşmeler ve uzun süreçler yerine mümkün olduğunca kısa süreli release’ler ile müşteri taleplerinin karşılanmaya çalışılması tavsiye edilmiştir. Konunun özeti aşağı yukarı bu şekilde olmakla birlikte büyük ihtimalle şimdiye kadar yapılmış en iyi Agile metodoloji tanımlaması da değildir.
