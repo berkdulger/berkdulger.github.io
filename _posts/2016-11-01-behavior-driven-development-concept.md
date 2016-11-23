@@ -1,5 +1,4 @@
 ---
-
 [header-image-post]: pexels-photo-213078.jpg
 
 title: Behavior-Driven Development, Concept
@@ -12,6 +11,7 @@ tags:
 - " DevOps"
 layout: single
 ---
+[header-image-post]
 
 Yazılım projelerinde analiz dokümanlarının güncel tutulamaması en bilinen sorunlardan. Sürekli değişen isteklere ayak uydururken, bir yandan bu istekleri yazılı hale dönüştürebilmek büyük bir özveri gerektiriyor. Nitekim birçoğumuzda bu özveriyi göster(e)miyoruz. Ve günün sonunda elimizdeki en güncel kaynak, kodun kendisi oluveriyor.
 
