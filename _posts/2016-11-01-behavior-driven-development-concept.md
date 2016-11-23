@@ -1,5 +1,5 @@
----
-[header-image-post]: /images/pexels-photo-213078.jpg
+header:
+  image: /images/pexels-photo-213078.jpg
 
 title: Behavior-Driven Development, Concept
 date: 2016-11-01 00:00:00 Z
