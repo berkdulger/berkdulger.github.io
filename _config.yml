@@ -1,5 +1,5 @@
 ---
-title: DevOps, Lean, Agile ...
+title: Cronicles ...
 timezone: UTC
 collections:
   posts:
@@ -15,7 +15,7 @@ description: An ordinary website.
 url: https://berkdulger.github.io
 baseurl: 
 gh_repo: 
-teaser: teaser-image.png
+teaser: "teaser-image.png"
 words_per_minute: 200
 comments:
   provider: 
