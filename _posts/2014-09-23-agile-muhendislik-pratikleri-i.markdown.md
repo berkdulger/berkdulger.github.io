@@ -1,9 +1,10 @@
 ---
-title: 'Agile Mühendislik Pratikleri – I'
+title: Agile Mühendislik Pratikleri – I
+date: 2014-09-23 00:00:00 Z
+categories:
+- blog
 layout: single
-category: blog
 ---
-
 
 IT, özellikle yazılım geliştirme dünyasındaki herkes hayatında en az bir kez “Agile” yada “Çevik” kelimesini duymuştur eminim ki. Hatta birçok kişi bu havalı! sözcüğün büyüsüne kapılıp, “Agile” olmak için kolları sıvamıştır. Scrum, XP gibi konuları araştırmış, eğitimlere katılmış, hatta denemeler yapmış olanlarımızın sayısı hiç de azımsanmayacak oranlardadır büyük ihtimalle.
 
