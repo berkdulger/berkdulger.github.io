@@ -14,5 +14,7 @@ Hal böyle olunca, özellikle ülkemizde yaşadığımız “Yönetici Olma” e
 
 Bu şekilde gerçekleştirilmeye çalışılan Agile dönüşüm projelerinde de, hal böyle olunca, kaçınılmaz olarak, nedeni ortak bir köke uzanan çok çeşitli sorunlar yaşanıyor.
 
+---
 title: Agile Mühendislik Pratikleri – I
 date: 2014-09-23 12:37:00
+---

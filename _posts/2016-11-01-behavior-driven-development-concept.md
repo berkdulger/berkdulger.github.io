@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-11-17 16:16:01 -0600
+categories: jekyll update
+---
+
 Behavior-Driven Development, Concept
 
 Yazılım projelerinde analiz dokümanlarının güncel tutulamaması en bilinen sorunlardan. Sürekli değişen isteklere ayak uydururken, bir yandan bu istekleri yazılı hale dönüştürebilmek büyük bir özveri gerektiriyor. Nitekim birçoğumuzda bu özveriyi göster(e)miyoruz. Ve günün sonunda elimizdeki en güncel kaynak, kodun kendisi oluveriyor.
