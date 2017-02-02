@@ -1,4 +1,6 @@
----
+header:
+  image: /images/pexels-photo-213078.jpg
+
 title: Agile Mühendislik Pratikleri – I
 date: 2014-09-23 12:37:00 Z
 categories:
