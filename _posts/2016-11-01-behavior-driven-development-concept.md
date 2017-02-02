@@ -1,8 +1,9 @@
 ---
 title:  "Behavior-Driven Development, Concept"
 date:   2015-11-17 16:16:01 -0600
+header:
+    overlay_image: /assets/images/pexels-photo-213078.jpg
 ---
-
 
 Yazılım projelerinde analiz dokümanlarının güncel tutulamaması en bilinen sorunlardan. Sürekli değişen isteklere ayak uydururken, bir yandan bu istekleri yazılı hale dönüştürebilmek büyük bir özveri gerektiriyor. Nitekim birçoğumuzda bu özveriyi göster(e)miyoruz. Ve günün sonunda elimizdeki en güncel kaynak, kodun kendisi oluveriyor.
 
