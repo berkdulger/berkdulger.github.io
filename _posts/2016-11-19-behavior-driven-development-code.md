@@ -12,7 +12,7 @@ Aslında bakarsanız, birkaç senedir BDD'den haberdar olmama, firma olarak dan�
 
 Ancak "Automation for Non-IT People" gelinebilecek en uç olgunluk seviyesi neredeyse. Bunun öncesinde birçok başka fayda sunuyor [BDD konsepti](https://www.linkedin.com/pulse/behavior-driven-development-concept-berk-d%C3%BClger). En basitinden yazdıktan bir süre sonra unuttuğunuz kodun ne yaptığını çok kısa bir sürede hatırlamanıza olanak tanıyor. Birçok yazılımcı için bu bile başlı başına büyük bir motivasyon!
  
-![Ideas are Cheap!](../images/IdeasAreCheap.png)
+![Ideas are Cheap!](https://berkdulger.github.io/images/IdeasAreCheap.png){: style="float:center"}
 
 Daha az karmaşık olması için, Java 8'in lambda gibi özelliklerini kullanmadan basit bir proje oluşturdum. Direkt olarak GitHub'dan klonlayarak kullanabileceğiniz gibi, IntelliJ, Maven, Junit, Cucumber ile de projeyi hızlıca oluşturabilirsiniz.
 
