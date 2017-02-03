@@ -1,6 +1,6 @@
 ---
 title:  "Performans Test Terminolojisi"
-date:   2014-06-21 11:16:01 -0600	
+date:   2015-09-21 11:16:01 -0600	
 header:
     image: lion_27-wallpaper-1920x1080.jpg
 ---
@@ -20,8 +20,9 @@ Bu testlerin gerçekleştiriminde birçok commercial (HP Performance Center, IBM
 
 Proje başlangıcında ilk olarak, testlerin geliştirimi ve koşumundan önce, performans senaryolarının belirlenmesi ve yeterli test verisinin oluşturulması gerekmektedir. Senaryoların temel olarak;
 
-Kullanıcılar tarafından en fazla tekrar edilen
-Sistem üzerinde en fazla yük oluşturan
+- Kullanıcılar tarafından en fazla tekrar edilen
+- Sistem üzerinde en fazla yük oluşturan
+
 akışlardan seçilmesi önem taşımaktadır. Nitekim performans açısından en kritik senaryolar büyük oranda bu kapsamda görülmektedir (Ürün Risk Analizi).
 
 İkincil olarak da, oluşturulacak yükün modellenmesi gerekmektedir. Bu modelleme için, eğer öncesinde kullanılan referans (Legacy) bir ortam bulunuyor ise, Google Analytics gibi bir ortamdan istatistiki bilgilerin yorumlanması oldukça faydalı olacaktır. Böyle bir referans bulunmuyor ise de, iş birimleri ve analiz ekipleri ile konunun yorumlanması, akabinde de hedeflerin ortaya konulması gerekmektedir.
