@@ -16,7 +16,6 @@ url: https://berkdulger.github.io
 baseurl:
 gh_repo:
 words_per_minute: 200
-teaser: teaser-image.png
 comments:
   provider: 
   disqus:

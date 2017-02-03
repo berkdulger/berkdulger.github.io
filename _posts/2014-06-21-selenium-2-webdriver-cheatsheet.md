@@ -1,8 +1,6 @@
 ---
 title:  "Selenium WebDriver CheatSheet"
 date:   2014-06-21 11:16:01 -0600	
-header:
-    image: 
 ---
 
 IT, özellikle yazılım geliştirme dünyasındaki herkes hayatında en az bir kez “Agile” yada “Çevik” kelimesini duymuştur eminim ki. Hatta birçok kişi bu havalı! sözcüğün büyüsüne kapılıp, “Agile” olmak için kolları sıvamıştır. Scrum, XP gibi konuları araştırmış, eğitimlere katılmış, hatta denemeler yapmış olanlarımızın sayısı hiç de azımsanmayacak oranlardadır büyük ihtimalle.
