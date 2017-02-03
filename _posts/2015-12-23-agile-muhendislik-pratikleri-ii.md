@@ -2,7 +2,7 @@
 title:  "Agile Mühendislik Pratikleri - II"
 date:   2015-12-17 11:16:01 -0600	
 header:
-    image: skyscrapers_blue_sky-wallpaper-1920x1080.jpg
+    image: sunrise-at-vermillion3.jpg
 ---
 
 Uzun süredir sektörde olmasam da danışman olarak şimdiye kadar telekomünikasyondan bankacılığa, sigortacılıktan elektronik ticarete birçok farklı alanda hizmet veren yirmiye yakın firma ve yüzlerce farklı kişiyle çalışma fırsatı buldum. Çalıştığım bu şirketlerin en az yarısının Agile yazılım geliştirme yöntemlerini uygulamaya çalıştıklarını rahatlıkla söyleyebilirim. Kalan yarısının da Agile metodolojileri uygulama konusunda kendilerini zorunda hissettikleri açıkça görülebiliyordu. Hatta bu zorunluluğun birçok zaman başarısız girişimlere sebep olduğunu da gözlemleme fırsatım oldu. Türkiye gibi hiyerarşik bir toplum yapısının olduğu ve desteklendiği ülkelerde Scrum gibi oldukça yatay bir yönetim biçiminin içselleştirilmesi de oldukça zor oluyor elbette.
