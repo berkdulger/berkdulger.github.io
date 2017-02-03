@@ -15,7 +15,7 @@ description: An ordinary web blog .
 url: https://berkdulger.github.io
 baseurl:
 gh_repo: https://berkdulger.github.com
-teaser: teaser-image.png
+teaser: /assets/images/teaser-image.png
 words_per_minute: 200
 comments:
   provider: 

@@ -4,46 +4,25 @@ date:   2015-11-17 16:16:01 -0600
 header:
     image: pexels-photo-213078.jpg
 ---
+Klasik metodolojilerde test fazı proje sonunda ele alınarak, gerçekleştirilen tüm modüllerin hatasız ve istenilen şekilde çalışması beklenmekte. Özellikle entegrasyon noktası fazla ve kapsamlı iş bilgisi gerektiren projelerde bu durum oldukça riskli bir hâle gelebiliyor. Bunu engellemek için ise kullanılan Scrum, Kanban gibi Agile metodolojilerin DevOps pratikleri ile desteklenmesi gerekli oluyor. Test bakış açısıyla, Continuous Integration/Delivery/DevOps projeleri birer <b>“Continuous Testing”</b> projesi hâline geliyor.
 
-Yazılım projelerinde analiz dokümanlarının güncel tutulamaması en bilinen sorunlardan. Sürekli değişen isteklere ayak uydururken, bir yandan bu istekleri yazılı hale dönüştürebilmek büyük bir özveri gerektiriyor. Nitekim birçoğumuzda bu özveriyi göster(e)miyoruz. Ve günün sonunda elimizdeki en güncel kaynak, kodun kendisi oluveriyor.
+<b>Continuous Testing Projeleri için Öneriler</b>
 
-**BDD (Behavior-Driven Development)** dokümantasyon güncelliği ve benzeri sorunlara kesin çözümler üretmese de, hafifletmek adına bize oldukça yardımcı oluyor.
+Continuous Testing projelerinin başarı ile yürütülebilmesi için ise dikkat edilmesi gereken bazı kritik noktalar bulunuyor. Bunlardan en temel olanlarını aşağıdaki gibi özetleyebiliriz:
 
-> BDD görece olarak oldukça yeni bir kavram. Dan North'un 2006 yılında yayınladığı bir [makale](https://dannorth.net/introducing-bdd/) ile konuşulmaya başlıyor ve sonrasında geliştirdikleri JBehave ve RSpec ile hayat buluyor.
+- Yaygın olarak kullanılan ve halihazırda güçlü bir community desteği bulunan build server’lar tercih edilmelidir.
+- Otomatize testler, release ve deployment süreçlerinin bir adımı haline getirilmelidir.
+- Unit, Integration ve UI testlerinin birbirlerine göre farklı avantajlarının olduğu kabul edilerek, dengeli bir şekilde kullanılmalıdır.
+- Test araçlarının seçiminde ilk yatırım maliyetinin yanında (CAPEX), operasyonel maliyetler (OPEX) de göz önüne alınmalıdır.
+- Fonksiyonel testlerin yanında performans, güvenlik gibi fonksiyonel olmayan testler de otomatize edilerek, build sürecine entegre edilmelidir.
+- Değişen teknolojilere hızla uyum sağlayabilmek için, bulut çözümlerinden mümkün olduğunca faydalanılmalıdır.
+- Kod kalitesinin ölçümlenmesi için kullanılan statik kod analiz araçları da akışın bir parçası hâline getirilmelidir.
+- Ekiplere hızlı geri bildirim yapılabilmesi için otomatize testler mümkün olduğunca paralelize edilmeli ve bunlar uygun bir donanım altyapısı ile desteklenmelidir.
+- Build süreci boyunca gerçekleştirilen aktivitelerin her biri için SLA’ler tanımlanarak, yazılım ve test ekipleri durumdan haberdar edilmeli, hatta gerekli olduğu durumlarda ayrıntılı inceleme için tüm süreç durdurulmalıdır.
+- Canlı ortama geçilmeden önce, tüm testler canlı ortamın birebir bir kopyası olan staging/pre-prod ortamlarında tekrar edilmelidir.
+- A/B Testing ya da Canary Release gibi yöntemler ile yeni geliştirmeler kontrollü bir şekilde canlıya çıkılmalıdır.
+- DevOps pratiklerinin uzun süredir tecrübe edilmediği ortamlarda, riski azaltmak adına tam otomatize süreçler yerine, manuel kontrollerin yapılabileceği, canlıya çıkıp çıkmama kararının verilebileceği yarı-otomatize süreçler kurgulanmalıdır.
 
-Temel olarak BDD yaklaşımı ile sağlanılmak istenilen, yazılımdan beklenilen davranışları modelleyerek, paydaşlar arasında bir iletişim kanalı oluşturabilmek (Fowler's [Business Readable, Domain Specific Language Blog Post](https://martinfowler.com/bliki/BusinessReadableDSL.html)). Aynı zamanda yaşayan bir dokümantasyon sağlayarak, test otomasyonuna destek verebilmek. Elbette eş zamanlı olarak bakım maliyetlerini ve ek eforları minimize ederek bu hedefi gerçekleştirebilmek.
+Kaynak
 
-BDD üzerine kurgulandığı Test-Driven Development'ın aksine, kod parçalarını birbirinden bağımsız parçalar olarak test etmek yerine, tüm akışı uçtan uca test edebilme olanağı sağlamakta. Peki nasıl?
-
-Aslına bakılırsa BDD’nin oldukça basit bir mantığı var. BDD ile yazılım davranışı, Gherkin formatında (i.e [Gherkin for Cucumber](https://github.com/cucumber/cucumber/wiki/Gherkin)) düz metinler halinde ifade ediliyor. Hatta ilgili story ile eşleştirilerek artifactlerin çok daha traceable olması sağlanabiliyor.
-
-```
- Feature: Some terse yet descriptive text of what is desired
-   Textual description of the business value ofthis feature
-   Business rules that govern the scope of the feature
-   Any additional information that will make the feature easier to understand
-
-   Scenario: Some determinable business situation
-    Given some precondition
-       And some other precondition
-    When some action by the actor
-      And some other action
-      And yet another action
-    Then some testable outcome is achieved
-      And something else we can check happens too
-```
-
-Gherkin dilinde hazırlanan senaryolar tercih edilen BDD framework'u ile kullanılan test otomasyon aracına mapleniyor. Bunlardan en meşhur olanları Cucumber, JBehave, Specflow, RSpec/Capybara ve Calabash denilebilir.
-
-Özetle, Behavior-Driven Development kullanımının,
-
-- Tasarım bakış açısı ile oluşturulan ve gerçek hayatı modelleyen isterler (Design Thinking)
-- Belirlenen akışlara göre hazırlanan back-end ve test edilebilir kodlar
-- İş birimlerince kurgulanabilen otomatize test senaryoları
-- Güncel, yaşayan dokümantasyon
-- Proje paydaşları arası etkin iletişim
-- Uçtan-uca testlerin okunabilirliği ve dolaylı olarak değişiklikler sonrasında artırılmış güven
-
-faydalarını beraberinde getireceğini söylebiliriz.
-
-BDD'nin nasıl en doğru şekilde uygulanabileceğini öğrenmek için Gojko Adzic'in ["Specification by Example"](https://www.amazon.com/Specification-Example-Successful-Deliver-Software/dp/1617290084) kitabını tavsiye ederim.
+Keytorc Blog: [DevOps Yaklaşımında Yazılım Testi](http://www.keytorc.com/blog/devops-yaklasiminda-yazilim-testi_3625/)
