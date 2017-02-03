@@ -1,5 +1,5 @@
 ---
-title: Cronicles ...
+title: Blog
 timezone: UTC
 collections:
   posts:
@@ -11,10 +11,10 @@ collections:
 locale: en-US
 title_separator: "-"
 name: Berk Dülger
-description: An ordinary website.
+description: An ordinary web blog .
 url: https://berkdulger.github.io
-baseurl: 
-gh_repo: 
+baseurl: https://berkdulger.github.io
+gh_repo: https://berkdulger.github.com
 teaser: "teaser-image.png"
 words_per_minute: 200
 comments:
@@ -51,7 +51,7 @@ google_ad_slot:
 author:
   name: Berk Dülger
   avatar: bio-photo.png
-  bio: Software Consulant addicted to high quality engineering
+  bio: Software Consulant addicted to high quality engineering. DevOps enthusiast. Dad to be
   location: Istanbul, Turkey
   email: berk_dulger@yahoo.com.tr
   uri: 
