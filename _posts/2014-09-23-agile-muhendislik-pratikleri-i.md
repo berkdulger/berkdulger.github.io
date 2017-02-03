@@ -1,6 +1,6 @@
 ---
 title:  "Agile Mühendislik Pratikleri - I"
-date:   2014-12-17 11:16:01 -0600	
+date:   2014-09-23 11:16:01 -0600	
 header:
     image: skyscrapers_blue_sky-wallpaper-1920x1080.jpg
 ---

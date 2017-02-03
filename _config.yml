@@ -17,9 +17,6 @@ baseurl:
 gh_repo:
 words_per_minute: 200
 teaser: teaser-image.png
-
-header:
-  teaser: /assets/images/teaser-image.png
 comments:
   provider: 
   disqus:
