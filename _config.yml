@@ -14,7 +14,7 @@ name: Berk Dülger
 description: An ordinary web blog
 url: https://berkdulger.github.io
 baseurl:
-gh_repo: https://berkdulger.github.com
+gh_repo:
 words_per_minute: 200
 header:
   teaser: /assets/images/teaser-image.png
