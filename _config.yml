@@ -11,12 +11,13 @@ collections:
 locale: en-US
 title_separator: "-"
 name: Berk Dülger
-description: An ordinary web blog .
+description: An ordinary web blog
 url: https://berkdulger.github.io
 baseurl:
 gh_repo: https://berkdulger.github.com
-teaser: /assets/images/teaser-image.png
 words_per_minute: 200
+header:
+  teaser: /assets/images/teaser-image.png
 comments:
   provider: 
   disqus:
