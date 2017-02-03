@@ -13,7 +13,7 @@ title_separator: "-"
 name: Berk Dülger
 description: An ordinary web blog .
 url: https://berkdulger.github.io
-baseurl: https://berkdulger.github.io
+baseurl:
 gh_repo: https://berkdulger.github.com
 teaser: "teaser-image.png"
 words_per_minute: 200
