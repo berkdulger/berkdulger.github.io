@@ -14,9 +14,9 @@ name: Berk Dülger
 description: An ordinary web blog
 url: https://berkdulger.github.io
 baseurl:
-teaser: skyscrapers_blue_sky-wallpaper-1920x1080.jpg
+teaser:
 gh_repo:
-words_per_minute: 200
+words_per_minute: 100
 comments:
   provider:
   disqus:
@@ -124,7 +124,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 permalink: "/:categories/:title/"
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 gems:
 - jekyll-paginate
