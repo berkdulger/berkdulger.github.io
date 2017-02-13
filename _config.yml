@@ -14,69 +14,70 @@ name: Berk Dülger
 description: An ordinary web blog
 url: https://berkdulger.github.io
 baseurl:
+teaser: /assets/images/skyscrapers_blue_sky-wallpaper-1920x1080.jpg
 gh_repo:
 words_per_minute: 200
 comments:
-  provider: 
+  provider:
   disqus:
-    shortname: 
+    shortname:
   discourse:
-    server: 
+    server:
   facebook:
-    appid: 
-    num_posts: 
-    colorscheme: 
-google_site_verification: 
-bing_site_verification: 
-alexa_site_verification: 
-yandex_site_verification: 
+    appid:
+    num_posts:
+    colorscheme:
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 twitter:
-  username: 
+  username:
 facebook:
-  username: 
-  app_id: 
-  publisher: 
-og_image: 
+  username:
+  app_id:
+  publisher:
+og_image:
 social:
-  type: 
-  name: 
-  links: 
+  type:
+  name:
+  links:
 analytics:
   provider: false
   google:
-    tracking_id: 
-google_ad_client: 
-google_ad_slot: 
+    tracking_id:
+google_ad_client:
+google_ad_slot:
 author:
   name: Berk Dülger
   avatar: bio-photo.png
   bio: Software Consulant addicted to high quality engineering. DevOps enthusiast. Dad to be
   location: Istanbul, Turkey
   email: berk_dulger@yahoo.com.tr
-  uri: 
-  bitbucket: 
-  codepen: 
-  dribbble: 
-  flickr: 
-  facebook: 
-  foursquare: 
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
   github: berkdulger
-  google_plus: 
-  keybase: 
-  instagram: 
-  lastfm: 
+  google_plus:
+  keybase:
+  instagram:
+  lastfm:
   lastfm:
   linkedin: berkdulger
-  pinterest: 
-  soundcloud: 
-  stackoverflow: 
-  steam: 
-  tumblr: 
-  twitter: 
-  vine: 
-  weibo: 
-  xing: 
-  youtube: 
+  pinterest:
+  soundcloud:
+  stackoverflow:
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube:
 include:
 - ".htaccess"
 - _pages
