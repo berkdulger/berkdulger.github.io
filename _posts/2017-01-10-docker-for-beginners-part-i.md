@@ -5,7 +5,7 @@ categories:
   - DevOps
   - Docker
 header:
-    image: whales-underwater-darrenjew-whale-02b
+    image: whales-underwater-darrenjew-whale-02b.jpg
 ---
 
 DevOps uygulamalarının en popülerlerinden biri Docker. Zira büyük bir hızla Virtual Machine’lerin yerini alıyor.
