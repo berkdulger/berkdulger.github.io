@@ -2,6 +2,7 @@
 title:  "Microservices, Contracts-Driven Consumer Testing"
 date:   2016-09-08 10:16:01 -0600
 categories:
+  - Tech
   - Microservices
   - Testing
   - Integration
