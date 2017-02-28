@@ -164,7 +164,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: default
+      type: pages
     values:
       layout: archieve
       author_profile: true
