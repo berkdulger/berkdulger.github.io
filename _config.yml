@@ -161,20 +161,11 @@ defaults:
       share: true
       related: true
 
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-
-  # _about_page
-  - scope:
-      path: "/about-me/"
       type: pages
     values:
       layout: single
       author_profile: true
       related: true
-
