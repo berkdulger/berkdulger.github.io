@@ -166,7 +166,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: archieve
+      layout: archive-taxonomy
       author_profile: true
       read_time: true
       related: true
