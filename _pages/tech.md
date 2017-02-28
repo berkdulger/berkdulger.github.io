@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: Tech Posts
 permalink: /tech/
-author_profile: true
 ---
 
 
