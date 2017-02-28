@@ -4,13 +4,23 @@ permalink: /tech/
 ---
 
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+title = "Blog Category"
+url = "/blog/category/:slug/:page?"
 
-{% for category in "Tech" %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+[blogPosts]
+categoryFilter = "{{ :Tech }}"
+==
+function onEnd()
+{
+    // Optional - set the page title to the category name
+    if ($this->category)
+        $this->page->title = $this->category->name;
+}
+==
+{% if not category %}
+    <h2>Category not found</h2>
+{% else %}
+    <h2>{{ category.name }}</h2>
+
+    {% component 'blogPosts' %}
+{% endif %}
