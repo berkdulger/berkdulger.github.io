@@ -33,8 +33,10 @@ Sosyal medyadaki tartışma gruplarında Scrum’ın yeni ürün geliştirme, Ka
 
 <b>Scrumban</b>, adında da anlaşılacağı gibi Scrum ve Kanban’ın birleşiminden oluşturulmuş hibrit bir metodoloji (Aslında iki metodolojinin belirli kurallar çerçevesinde birleşiyor olması o kadar hoşuma gitmiyor). Kanban’ın en önemli değeri olan WIP (Work in Process) limitlerini kabul ederken, ihtiyaç duyulduğu kadar gerçekleştirilen toplantılar (Planning, Review ve Retrospection) ile zamanı optimize kullanmayı hedefliyor. Tamamlanan (ve onaylanan) her geliştirmenin canlıya çıkması sayesinde DevOps/ Minimized Cycle Time hedefine bir adım daha yaklaşılıyor.
 
-![Scrumban](https://berkdulger.github.io/images/Scrumban.png "Scrumban")
+![Scrumban](https://berkdulger.github.io/images/scrumban.png "Scrumban")
 
 Konuyla ilgili Boğaziçi Üniversitesi’nde E. Zafer Güney ile gerçekleştirdiğimiz sunumu eklemek istedim. Sunum Scrumban/DevOps dönüşümü için değer odaklı bir dönüşüm yöntemi olarak geliştirmeye başladığımız “DevOps Tactical Adoption Theory” ile ilgili ön bilgilere de yer veriyor.
 
+<center>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/9CaEeErPESPY9u" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/BerkDlger/lean-enterprise-a-definitive-approach-in-software-development-production-58116825" title="Lean Enterprise, A Definitive Approach in Software Development Production" target="_blank">Lean Enterprise, A Definitive Approach in Software Development Production</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/BerkDlger">Berk Dülger</a></strong> </div>
+</center>
