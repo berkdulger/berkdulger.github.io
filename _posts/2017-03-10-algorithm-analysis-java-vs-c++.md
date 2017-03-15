@@ -23,7 +23,7 @@ En basitinden, en karmaşığına birçok problemle ilgili kodlama yapmanız mü
 
 Uzun süredir Java'yı ağırlıklı olarak kullandığım için, Java'da karar kılarak alıştırmalarıma başladım. Bir süre sonra algoritma analizlerinde fark ettiğim bir durum beni oldukça şaşırttı. Zira o zamana kadar edindiğim ezberlere zıt bir görüntü oluşturuyordu. 
 
-Algorithms
+<b>Algorithms</b>
 
 Örneğin bir array içerisindeki hangi iki sayının toplamının belirtilen sayıyı verdiğini çözen bir algoritma için durum bu şekildeydi. Benim Java'da kodladığım çözüm, Java çözümleri arasında ortalama bir performansa sahipti. Ancak enteresan olan C++ ile yapılan kodlamaların Java çözümler karşısında büyük bir üstünlüğünün bulunmamasıydı. Hatta zamana yayılmış çözümleri incelediğimde bazılarının performans açısından oldukça kötü olduğunu gözlemledim.
 
@@ -42,5 +42,5 @@ Bu nedenle karşımıza çıkan herhangi bir business case'i, "Bu sorun .Net vey
 
 Umarım, ileride üniversitelerde bu konulara değinen ve bilimsel analizlerle öğrencilerine aktaran öğretim üyelerinin sayısı artar.
 
-Kod örnekleri için ["Gist Repository"](https://gist.github.com/berkdulger) Gist Repository
+Kod örnekleri için ["Gist Repository"](https://gist.github.com/berkdulger) 
 
