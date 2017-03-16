@@ -2,7 +2,7 @@
 title: Social Life
 permalink: /social-life/
 header:
-    image: armenia_teghut-wallpaper-1920x1080.jpg
+    image: sunrise-at-vermillion3.jpg
 ---
 
 {% include base_path %}

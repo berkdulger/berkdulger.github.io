@@ -2,7 +2,7 @@
 title: Tech Posts
 permalink: /tech/
 header:
-    image: armenia_teghut-wallpaper-1920x1080.jpg
+    image: galaxy-wallpaper-11.jpg
 ---
 
 {% include base_path %}
