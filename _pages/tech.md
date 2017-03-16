@@ -1,10 +1,7 @@
 ---
 title: Tech Posts
 permalink: /tech/
-header:
-    image: https://berkdulger.github.io/images/bokeh-cup-tea-splash.jpg
 ---
-
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
