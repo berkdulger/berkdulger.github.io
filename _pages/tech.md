@@ -1,6 +1,8 @@
 ---
 title: Tech Posts
 permalink: /tech/
+header:
+    image: https://berkdulger.github.io/images/bokeh-cup-tea-splash.jpg
 ---
 
 
