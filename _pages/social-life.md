@@ -1,6 +1,6 @@
 ---
-title: Tech Posts
-permalink: /tech/
+title: Social Life
+permalink: /social-life/
 header:
     image: galaxy-wallpaper-11.jpg
 ---
