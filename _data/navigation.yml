@@ -8,4 +8,4 @@ main:
     url: https://berkdulger.github.io/social-life/
 
   - title: "About Me"
-    url: https://about.me/berkdulger
+    url: <a href="https://about.me/berkdulger" target="_blank"></a>
