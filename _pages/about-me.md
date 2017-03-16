@@ -2,7 +2,7 @@
 title: About Me
 permalink: /about-me/
 header:
-    image: paradise_9-wallpaper-1920x1080.jpg
+    image: armenia_teghut-wallpaper-1920x1080.jpg
 ---
 
 IT Professional worked as a pure Developer, Software Development Engineer in Test, Consultant, Coach, Delivery Lead, DevOps and Agile Practitioner.
