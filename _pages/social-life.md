@@ -2,7 +2,7 @@
 title: Social Life
 permalink: /social-life/
 header:
-    image: sunrise-at-vermillion3.jpg
+    image: trees_20-wallpaper-1920x1080.jpg
 ---
 
 {% include base_path %}
