@@ -2,7 +2,7 @@
 title: Social Life
 permalink: /social-life/
 header:
-    image: trees_20-wallpaper-1920x1080.jpg
+    image: pexels-photo-196666.jpg
 ---
 
 {% include base_path %}
