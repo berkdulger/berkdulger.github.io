@@ -9,7 +9,7 @@ header:
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
-  {% if category contains "Tech" %}
+  {% if category contains "Social" %}
   {% assign posts = group_items[forloop.index0] %}
   {% for post in posts %}
     {% include archive-single.html %}
