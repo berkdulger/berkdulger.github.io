@@ -6,11 +6,10 @@ header:
 ---
 {% include base_path %}
 
-<div class="archive__subtitle archive">
 {% for post in site.posts %}
     {% if post.categories contains 'Tech' %}
         {% include archive-single.html %}
     {% endif %}
 {% endfor %}
-</div>
+
 
