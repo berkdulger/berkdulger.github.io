@@ -4,7 +4,7 @@ permalink: /tech/
 header:
     image: galaxy-wallpaper-11.jpg
 ---
-{% include base_path %}
+{% include archive.html %}
 
 {% for post in site.posts %}
     {% if post.categories contains 'Tech' %}
