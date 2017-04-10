@@ -19,4 +19,3 @@ header:
   {% endif %}
 {% endfor %}
 
-{% include paginator.html %}
