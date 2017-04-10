@@ -5,12 +5,10 @@ header:
     image: galaxy-wallpaper-11.jpg
 ---
 
-{% for category in group_names %}
-  {% if category contains "Tech" %}
-     {% assign posts = group_items[forloop.index0] %}
-     {% for post in posts %}
-        {% include archive-single.html %}
-     {% endfor %}
-  {% endif %}
+<ul class="posts">
+{% for post in site.posts %}
+    {% if post.categories contains 'Tech' %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 {% endfor %}
-
+</ul>
