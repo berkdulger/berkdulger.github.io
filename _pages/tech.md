@@ -7,7 +7,6 @@ header:
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
