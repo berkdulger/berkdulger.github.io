@@ -2,6 +2,7 @@
 title:  "Docker for Beginners, Part I"
 date:   2017-01-19 10:16:01 -0600
 categories:
+  - Tech
   - DevOps
   - Docker
 header:
