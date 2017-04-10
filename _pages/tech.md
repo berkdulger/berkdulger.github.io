@@ -4,6 +4,7 @@ permalink: /tech/
 header:
     image: galaxy-wallpaper-11.jpg
 ---
+{% include base_path %}
 
 <div class="archive">
 {% for post in site.posts %}
