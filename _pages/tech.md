@@ -5,12 +5,11 @@ header:
     image: galaxy-wallpaper-11.jpg
 ---
 
-
+<div class="archive">
 {% for post in site.posts %}
     {% if post.categories contains 'Tech' %}
-            <div class="archive">
-                {% include archive-single.html %}
-            </div>
+        {% include archive-single.html %}
     {% endif %}
 {% endfor %}
+</div>
 
