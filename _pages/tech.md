@@ -1,7 +1,7 @@
 ---
+layout: archive
 title: Tech Posts
 permalink: /tech/
-layout: archive
 header:
     image: galaxy-wallpaper-11.jpg
 ---
