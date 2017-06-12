@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: Tech Posts
 permalink: /tech/
 header:
