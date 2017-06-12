@@ -16,7 +16,7 @@ TDD veya temel olarak Unit Testler, yazılımdaki herhangi bir değişiklik sonr
 
 TDD ve Unit Test'i birebir olarak karşılaştırmak çok da doğru değil. TDD bir yazılım geliştirme aktivitesi iken, Unit Testler'in sürecin (TDD veya TFA) çıktısı olarak değerlendirilebilir.
 
-<c>Test-Driven Development = Test First Approach + Refactoring</c>
+Test-Driven Development = Test First Approach + Refactoring
 
 TDD'yi refactoring olmadan düşünmemiz yanlış olacaktır. TDD birincil hedef olarak, yazılımcının kodlamaya başlamadan önce tasarıma odaklanmasını sağlayarak, daha yalın, rafine (SOLID Principle) ve en sonunda refactor edilmiş kodlar üretmesini desteklemektedir. Sürecin çıktısı olarak üretilen testler ise ikincil hedef kapsamında regresyon kontrolleri için kullanılabilir.
 
