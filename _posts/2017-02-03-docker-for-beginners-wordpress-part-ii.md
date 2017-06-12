@@ -2,6 +2,7 @@
 title:  "Docker Part II, WordPress"
 date:   2017-02-03 10:16:01 -0600
 categories:
+  - Tech
   - DevOps
   - Docker
 header:

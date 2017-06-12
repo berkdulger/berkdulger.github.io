@@ -2,6 +2,7 @@
 title:  "Scrumban: Hibrit Çeviklik Metodolojisi"
 date:   2016-02-10 10:16:01 -0600
 categories:
+  - Tech
   - Scrum
   - Kanban
   - Agile

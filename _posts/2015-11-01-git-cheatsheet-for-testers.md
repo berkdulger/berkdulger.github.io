@@ -1,6 +1,10 @@
 ---
 title:  "Git CheatSheet for Testers"
 date:   2015-11-01 11:16:01 -0600	
+categories:
+  - Tech
+  - Version Control
+  - Git
 header:
     image: rainy_weather-wallpaper-1920x1080.jpg
 ---

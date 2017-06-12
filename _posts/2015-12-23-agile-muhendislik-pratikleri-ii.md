@@ -1,6 +1,10 @@
 ---
 title:  "Agile Mühendislik Pratikleri - II"
 date:   2015-12-23 11:16:01 -0600	
+categories:
+  - Tech
+  - Agile
+  - Engineering Practices
 header:
     image: sunrise-at-vermillion3.jpg
 ---

@@ -1,6 +1,10 @@
 ---
 title:  "Agile Mühendislik Pratikleri - I"
 date:   2014-09-23 11:16:01 -0600	
+categories:
+  - Tech
+  - Agile
+  - Engineering Practices
 header:
     image: skyscrapers_blue_sky-wallpaper-1920x1080.jpg
 ---

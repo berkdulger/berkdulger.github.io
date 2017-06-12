@@ -1,6 +1,10 @@
 ---
 title:  "Continuous Testing Projeleri için 12 Tavsiye"
 date:   2016-11-01 16:16:01 -0600
+categories:
+  - Tech
+  - Continuous Testing
+  - Tips and Tricks
 header:
     image: pexels-photo-213078.jpg
 ---

@@ -1,6 +1,10 @@
 ---
 title:  "Performans: Client-Side Code"
 date:   2015-10-21 11:16:01 -0600	
+categories:
+  - Tech
+  - Performance Engineering
+  - Client-Side Code
 header:
     image: cheetah_9-wallpaper-1920x1080.jpg
 ---

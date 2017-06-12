@@ -1,6 +1,12 @@
 ---
 title:  "Selenium WebDriver CheatSheet"
 date:   2014-06-21 11:16:01 -0600	
+categories:
+  - Tech
+  - Test Automation
+  - Selenium Webdriver 
+header:
+    image: melbourne_2-wallpaper-1920x1080.jpg
 ---
 
 IT, özellikle yazılım geliştirme dünyasındaki herkes hayatında en az bir kez “Agile” yada “Çevik” kelimesini duymuştur eminim ki. Hatta birçok kişi bu havalı! sözcüğün büyüsüne kapılıp, “Agile” olmak için kolları sıvamıştır. Scrum, XP gibi konuları araştırmış, eğitimlere katılmış, hatta denemeler yapmış olanlarımızın sayısı hiç de azımsanmayacak oranlardadır büyük ihtimalle.

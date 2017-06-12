@@ -2,6 +2,7 @@
 title:  "TDD is more about Coding than Testing"
 date:   2017-05-31 10:16:01 -0600
 categories:
+  - Tech
   - Test-Driven Development
   - Software Development
   - Software Engineering

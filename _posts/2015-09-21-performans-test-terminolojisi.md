@@ -1,6 +1,9 @@
 ---
 title:  "Performans Test Terminolojisi"
 date:   2015-09-21 11:16:01 -0600	
+categories:
+  - Tech
+  - Performance Testing
 header:
     image: lion_27-wallpaper-1920x1080.jpg
 ---

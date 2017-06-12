@@ -1,6 +1,10 @@
 ---
 title:  "Test Otomasyonu, Motivasyon ve Sahiplik"
 date:   2016-03-01 16:16:01 -0600
+categories:
+  - Tech
+  - Test Automation
+  - Code Maintenance
 header:
     image: melbourne_2-wallpaper-1920x1080.jpg
 ---

@@ -1,6 +1,10 @@
 ---
 title:  "Performans: Scalability Sorunlarının Tespiti"
 date:   2015-12-21 11:16:01 -0600	
+categories:
+  - Tech
+  - Performance Engineering
+  - Scalability
 header:
     image: city_of_dreams-wallpaper-1920x1080 (1).jpg
 ---

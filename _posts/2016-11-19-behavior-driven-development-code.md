@@ -1,6 +1,9 @@
 ---
 title:  "Behavior-Driven Development, Code"
 date:   2016-11-19 10:16:01 -0600
+categories:
+  - Tech
+  - Behavior-Driven Development
 header:
     image: sunrise-at-vermillion3.jpg
 ---
