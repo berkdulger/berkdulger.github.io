@@ -12,7 +12,7 @@ header:
   {% if category contains "Tech" %}
   {% assign posts = group_items[forloop.index0] %}
   {% for post in posts %}
-   
+    {% include single.html %}
   {% endfor %}
   {% endif %}
 {% endfor %}
