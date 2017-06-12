@@ -7,7 +7,7 @@ categories:
   - Software Engineering
   - Software Craftsmanship
 header:
-    image: work-731198_1920-1.jpg
+    image: work-731198_1920-2.jpg
 ---
 
 TDD veya temel olarak Unit Testler, yazılımdaki herhangi bir değişiklik sonrasında oluşabilecek regresyon etkisini tespit etmede düşündüğümüz kadar etkili olmayabilir! Zira, Unit Test'ler dış etkenlerden bağımsız olarak, metotların işlevini doğruladıkları için diğer modüllerle bütün olarak doğru çalışıp çalışmama konusunda yeterince bilgi sağlayamazlar. Ancak değiştirilen metodun eski işlevini hala yerine getirdiğinden emin olmamızı sağlayabilirler. İşin kötü kısmı çoğu zaman var olan metotları yeniden tasarlamak yerine, yenilerini yazmayı tercih etmemiz (Bu ayrı bir yazı konusu). Bu durumda unit testlerin regresyon hatalarının tespiti tarafındaki faydası daha da azaltmakta.
