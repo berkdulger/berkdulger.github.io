@@ -10,13 +10,13 @@ header:
     image: work-731198_1920-1.jpg
 ---
 
-..TDD veya temel olarak Unit Testler, yazılımdaki herhangi bir değişiklik sonrasında oluşabilecek regresyon etkisini tespit etmede düşündüğümüz kadar etkili olmayabilir! Zira, Unit Test'ler dış etkenlerden bağımsız olarak, metotların işlevini doğruladıkları için diğer modüllerle bütün olarak doğru çalışıp çalışmama konusunda yeterince bilgi sağlayamazlar. Ancak değiştirilen metodun eski işlevini hala yerine getirdiğinden emin olmamızı sağlayabilirler. İşin kötü kısmı çoğu zaman var olan metotları yeniden tasarlamak yerine, yenilerini yazmayı tercih etmemiz (Bu ayrı bir yazı konusu). Bu durumda unit testlerin regresyon hatalarının tespiti tarafındaki faydası daha da azaltmakta.
+TDD veya temel olarak Unit Testler, yazılımdaki herhangi bir değişiklik sonrasında oluşabilecek regresyon etkisini tespit etmede düşündüğümüz kadar etkili olmayabilir! Zira, Unit Test'ler dış etkenlerden bağımsız olarak, metotların işlevini doğruladıkları için diğer modüllerle bütün olarak doğru çalışıp çalışmama konusunda yeterince bilgi sağlayamazlar. Ancak değiştirilen metodun eski işlevini hala yerine getirdiğinden emin olmamızı sağlayabilirler. İşin kötü kısmı çoğu zaman var olan metotları yeniden tasarlamak yerine, yenilerini yazmayı tercih etmemiz (Bu ayrı bir yazı konusu). Bu durumda unit testlerin regresyon hatalarının tespiti tarafındaki faydası daha da azaltmakta.
 
 <b>TDD vs Unit Testing</b>
 
 TDD ve Unit Test'i birebir olarak karşılaştırmak çok da doğru değil. TDD bir yazılım geliştirme aktivitesi iken, Unit Testler'in sürecin (TDD veya TFA) çıktısı olarak değerlendirilebilir.
 
-<c>Test-Driven Development = Test First Approach + Refactoring</b>
+<c>Test-Driven Development = Test First Approach + Refactoring</c>
 
 TDD'yi refactoring olmadan düşünmemiz yanlış olacaktır. TDD birincil hedef olarak, yazılımcının kodlamaya başlamadan önce tasarıma odaklanmasını sağlayarak, daha yalın, rafine (SOLID Principle) ve en sonunda refactor edilmiş kodlar üretmesini desteklemektedir. Sürecin çıktısı olarak üretilen testler ise ikincil hedef kapsamında regresyon kontrolleri için kullanılabilir.
 
