@@ -5,14 +5,27 @@ header:
     image: pexels-photo-196666.jpg
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+<div class="page__hero" style=" ">
+    <img src="https://berkdulger.github.io/images/rainy_weather-wallpaper-1920x1080.jpg" alt="Header" class="page__hero-image">
+</div>
 
-{% for category in group_names %}
-  {% if category contains "Social" %}
-  {% assign posts = group_items[forloop.index0] %}
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-  {% endif %}
-{% endfor %}
+{% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+</div>
