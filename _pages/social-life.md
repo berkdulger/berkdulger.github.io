@@ -1,13 +1,10 @@
 ---
+layout: default
 title: Social Life
 permalink: /social-life/
 header:
     image: pexels-photo-196666.jpg
 ---
-
-<div class="page__hero" style=" ">
-    <img src="https://berkdulger.github.io/images/rainy_weather-wallpaper-1920x1080.jpg" alt="Header" class="page__hero-image">
-</div>
 
 {% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
   {% include page__hero.html %}
