@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Social Life
 permalink: /social-life/
 header:
