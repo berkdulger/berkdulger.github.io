@@ -1,7 +1,7 @@
 ---
 title:  "Algorithm Analysis, Java vs C++"
 date:   2017-03-10 10:16:01 -0600
-categories::
+categories:
   - Tech
   - Algorithms
   - Java
