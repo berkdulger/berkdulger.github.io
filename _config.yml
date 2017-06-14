@@ -1,6 +1,6 @@
 ---
-title: Blog
-timezone: UTC
+title: A Techy Blog
+timezone: GMT
 collections:
   posts:
     title: Posts
@@ -11,12 +11,12 @@ collections:
 locale: en-US
 title_separator: "-"
 name: Berk Dülger
-description: An ordinary web blog
+description: Where I write my thoughts about Software Development, Craftsmanship, Technology, DevOps, Social Life and any other cool stuff
 url: https://berkdulger.github.io
 baseurl:
 teaser:
 gh_repo:
-words_per_minute: 100
+words_per_minute: 80
 comments:
   provider:
   disqus:
@@ -51,7 +51,7 @@ google_ad_slot:
 author:
   name: Berk Dülger
   avatar: bio-photo.png
-  bio: Software Consulant addicted to high quality engineering. DevOps enthusiast. Dad to be
+  bio: Project Manager. Software Consulant addicted to high quality engineering. DevOps enthusiast...
   location: Istanbul, Turkey
   email: berk_dulger@yahoo.com.tr
   uri:
