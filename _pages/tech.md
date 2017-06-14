@@ -9,7 +9,7 @@ header:
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
-{% var searchArray = ['Tech']; %}
+{% searchArray = ['Tech']; %}
 
 {% for category in searchArray %}
   {% assign posts = group_items[forloop.index0] %}
