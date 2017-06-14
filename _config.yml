@@ -43,9 +43,9 @@ social:
   name:
   links:
 analytics:
-  provider: false
+  provider: true
   google:
-    tracking_id:
+    tracking_id: UA-101034653-1
 google_ad_client:
 google_ad_slot:
 author:
