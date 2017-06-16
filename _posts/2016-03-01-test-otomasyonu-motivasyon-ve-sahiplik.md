@@ -3,7 +3,6 @@ title:  "Test Otomasyonu, Motivasyon ve Sahiplik"
 date:   2016-03-01 16:16:01 -0600
 categories:
   - Tech
-  - Social
   - Test Automation
   - Code Maintenance
 header:
