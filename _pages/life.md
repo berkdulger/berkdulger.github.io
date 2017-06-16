@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Social Life
-permalink: /social-life/
+permalink: /life/
 header:
     image: pexels-photo-196666.jpg
 ---
