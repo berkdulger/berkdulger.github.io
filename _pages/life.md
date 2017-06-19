@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Social Life
+title: Life
 permalink: /life/
 header:
     image: pexels-photo-196666.jpg
@@ -9,7 +9,7 @@ header:
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for category in group_names %}
-    {% if category== 'Social' %}
+    {% if category== 'Life' %}
       {% assign posts = group_items[forloop.index0] %}
       {% for post in posts %}
         {% include archive-single.html %}
