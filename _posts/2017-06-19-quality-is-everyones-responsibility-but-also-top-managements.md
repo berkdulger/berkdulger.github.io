@@ -18,7 +18,7 @@ Tam bu noktada bir yanılsama içerisine giriyoruz. İçerisinde bulunduğumuz k
 
 Tüm ticari işletmeler kar etmek amacıyla faaliyet gösterirler. Ve mümkün olduğunca fazla kar etmek isterler. Ekonomi içerisinde yer alan temel iki oyuncu; işveren en düşük (mümkünse sıfır) ücrete işini yaptırmak isterken, işçi ise en yüksek (mümkünse sonsuz) fiyat ile işi yapmak ister. İkisinin dengelendiği yerde (arz/talep dengesi) iş gerçekleşir. Kısacası, bir kaynak  ne kadar az miktarda bulunuyorsa veya ne kadar fazla talep ediliyorsa o kadar değerlidir.
 
-Firmalar temel olarak  ekonomik yapı(Kapitalizm) içerisinde daha fazla kazanmak, zira büyüyemeyen firmaların bir süre sonra küçülmesi nerdeyse kaçınılmazdır. Bu kar etme isteğinde bir yanlış olduğunu söyleyemeyiz, zira ticari faaliyetler içerisinde ahlaki normlar aramak mantık olacaktır. Bu normlar insanlara özgü bir niteliklerdir. Aynı "Laik" bir insan olamayacağı gibi (Laiklik devletlere özel bir niteliktir), Sosyal adaleti gözeten bir firma modeli de bulunamaz. Elbette, oldukça sorumlu ve toplumun duyarlılıklarına saygılı firmalar olabilir, ancak bu firman yapısının bir niteliği değil, yöneticilerinin inisiyatifi ile ilişkilidir.
+Firmalar temel olarak  ekonomik yapı(Kapitalizm) içerisinde daha fazla kazanmak zorundadırlar, zira büyüyemeyen yapıların bir süre sonra küçülmesi nerdeyse kaçınılmazdır. Bu kar etme isteğinde bir yanlış olduğunu söyleyemeyiz, zira ticari faaliyetler içerisinde ahlaki normlar aramak mantıklı olmayacaktır. Bu normlar insanlara özgü bir niteliklerdir. Aynı "Laik" bir insan olamayacağı gibi (Laiklik devletlere özel bir niteliktir), Sosyal adaleti gözeten bir firma modeli de bulunamaz. Elbette, oldukça sorumlu ve toplumun duyarlılıklarına saygılı firmalar olabilir, ancak bu firman yapısının bir niteliği değil, yöneticilerinin inisiyatifi ile ilişkilidir.
 
 <b>Top Management and Quality</b>
 
@@ -28,11 +28,11 @@ Kalite herkesin olduğu kadar üst yönetimin de sorumluluğundadır. Hatta, bun
 
 Bu durum yazılım sektörü için de birebir bu şekildedir. Aynı anda paralel gerçekleştirilen projeler, zaman kısıtları vb. Buna karşın analist/yazılımcı/tester vb. rollerde beklenen çalışanlardan beklenilen yüksek kalite. Veya unit testlerin yazılması için zaman ayrılmaması, kod içerisindeki zaruri olarak bırakılan teknik borçların ödenmesi için gerekli kaynakların sağlanmaması gibi. 
 
-Özetle, kalite için çalışanların ilgili pratikleri uygulamaları, üst yönetimin ise maddi/manevi desteği ve yol gösterimi gerekmektedir. İkisinden birinin eksik olduğu noktada, konuşulanların samimiyetini sorgulamak gerekecektir.
+Özetle, kalite için çalışanların ilgili pratikleri uygulamaları, üst yönetimin ise maddi/manevi desteği ve yol gösterimi gerekmektedir. İkisinden birinin eksik olduğu noktada, konuşulanların samimiyeti sorgulanmalıdır.
 
 >"Sustainable success requires both bottom-up practices and top-down management support - Berk Dülger"
 
-Burada tartışılması gereken konu ne kadar kalite gerekmektedir sorusu oluyor? Zira her zaman çok kaliteli ürünlere ihtiyaç olduğunu söylememiz doğru olmayacaktır. Neredeyse her zaman farklı segmentlerde ürün ve hizmetlere ihtiyaç duyulmaktadır. Yani tüm firmalar yüksek kaliteli ürün veya servisler sunarak hayatta kalamazlar. Farklı firmaların farklı seviyede kalite ihtiyaçlarını karşılaması ile başarılı bir ticari eşleşme oluşabilir. Ancak bu tamamen farklı bir konu olduğu için başka bir zamanda detaylandırmanın uygun olacağını düşünüyorum.
+Burada tartışılması gereken bir diğer konu da "ne kadar kalite gereklidir" sorusu olmaktadır? Zira her zaman yüksek kaliteli ürünlere ihtiyaç olduğunu söylememiz doğru olmayacaktır. Birçok zaman farklı segmentlerde ürün ve hizmetlere farklı kesimlerce ihtiyaç duyulmaktadır. Yani tüm firmalar yüksek kaliteli ürün veya servisler sunarak hayatta kalamazlar. Bazılarının, talep doğrultusunda, daha ucuz ve daha düşük kaliteli ürün veya hizmetler üretmeleri gerekmektedir. Ancak bu tamamen farklı bir konu olduğu için başka bir zamanda detaylandırmanın uygun olacağını düşünüyorum
 
 ![Cost of Quality](https://berkdulger.github.io/images/cost-of-quality-curve.jpg "Cost of Quality")
 
