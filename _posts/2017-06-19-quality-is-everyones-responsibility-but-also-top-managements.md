@@ -34,7 +34,7 @@ Bu durum yazılım sektörü için de birebir bu şekildedir. Aynı anda paralel
 
 Burada tartışılması gereken konu ne kadar kalite gerekmektedir sorusu oluyor? Zira her zaman çok kaliteli ürünlere ihtiyaç olduğunu söylememiz doğru olmayacaktır. Neredeyse her zaman farklı segmentlerde ürün ve hizmetlere ihtiyaç duyulmaktadır. Yani tüm firmalar yüksek kaliteli ürün veya servisler sunarak hayatta kalamazlar. Farklı firmaların farklı seviyede kalite ihtiyaçlarını karşılaması ile başarılı bir ticari eşleşme oluşabilir. Ancak bu tamamen farklı bir konu olduğu için başka bir zamanda detaylandırmanın uygun olacağını düşünüyorum.
 
-->![Cost of Quality](https://berkdulger.github.io/images/cost-of-quality-curve.jpg "Cost of Quality")<-
+![Cost of Quality](https://berkdulger.github.io/images/cost-of-quality-curve.jpg "Cost of Quality")
 
 Referanslar;
 
