@@ -22,18 +22,19 @@ Firmalar temel olarak  ekonomik yapı(Kapitalizm) içerisinde daha fazla kazanma
 
 <b>Top Management and Quality</b>
 
-Quality begins with the intent, which is fixed by management - Edwards Deming
+>"Quality begins with the intent, which is fixed by management - Edwards Deming"
+
 Kalite herkesin olduğu kadar üst yönetimin de sorumluluğundadır. Hatta, bunu bir adım daha ileri götürerek herkesten çok üst yönetimin sorumluluğundadır dememiz yanlış olmayacaktır. Ekonomi içerisinde daha fazla kar etme isteği ile kalite oldukça kolere bir biçimde ters orantı göstermektedirler. Bir örnek vermek gerekirse, daha fazla kar etmek için malzeme ve yetkin iş gücünü kısıtlayan bir işveren, düşük kaliteli bir işin ortaya çıkmasına direkt olarak neden olacaktır. 
 
 Bu durum yazılım sektörü için de birebir bu şekildedir. Aynı anda paralel gerçekleştirilen projeler, zaman kısıtları vb. Buna karşın analist/yazılımcı/tester vb. rollerde beklenen çalışanlardan beklenilen yüksek kalite. Veya unit testlerin yazılması için zaman ayrılmaması, kod içerisindeki zaruri olarak bırakılan teknik borçların ödenmesi için gerekli kaynakların sağlanmaması gibi. 
 
 Özetle, kalite için çalışanların ilgili pratikleri uygulamaları, üst yönetimin ise maddi/manevi desteği ve yol gösterimi gerekmektedir. İkisinden birinin eksik olduğu noktada, konuşulanların samimiyetini sorgulamak gerekecektir.
 
-Sustainable success requires both bottom-up practices and top-down management support - Berk Dülger
+>"Sustainable success requires both bottom-up practices and top-down management support - Berk Dülger"
 
 Burada tartışılması gereken konu ne kadar kalite gerekmektedir sorusu oluyor? Zira her zaman çok kaliteli ürünlere ihtiyaç olduğunu söylememiz doğru olmayacaktır. Neredeyse her zaman farklı segmentlerde ürün ve hizmetlere ihtiyaç duyulmaktadır. Yani tüm firmalar yüksek kaliteli ürün veya servisler sunarak hayatta kalamazlar. Farklı firmaların farklı seviyede kalite ihtiyaçlarını karşılaması ile başarılı bir ticari eşleşme oluşabilir. Ancak bu tamamen farklı bir konu olduğu için başka bir zamanda detaylandırmanın uygun olacağını düşünüyorum.
 
-![Cost of Quality](https://berkdulger.github.io/images/cost-of-quality-curve.jpg "Cost of Quality")
+->![Cost of Quality](https://berkdulger.github.io/images/cost-of-quality-curve.jpg "Cost of Quality")<-
 
 Referanslar;
 
